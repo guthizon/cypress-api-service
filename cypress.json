@@ -1,0 +1,17 @@
+{
+    "retries": 0,
+    "ignoreTestFiles": "*.js",
+    "testFiles": ["**/*.{feature,features}"],
+    "projectId": "p9topf",
+    "video": false,
+    "videosFolder": "cypress/videos",
+    "videoCompression": 32,
+    "env": {
+        "TAGS": "not @ignore",
+        "allure": true,
+        "allureResultsPath": "cypress/allure-report"
+    },
+    
+    "requestTimeout": 50000,
+    "defaultCommandTimeout": 30000
+  }
