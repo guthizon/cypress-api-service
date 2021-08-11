@@ -1,4 +1,4 @@
-# Smart Câmeras Testes Automatizados
+# Testes de API com CYPRESS
 
 ## Configurando o Ambiente
 
